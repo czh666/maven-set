@@ -10,5 +10,6 @@ public class example {
         System.out.println("0909090");
         System.out.println("第2");
         System.out.println("第3");
+        System.out.println("hot-fix");
     }
 }
