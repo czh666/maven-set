@@ -12,5 +12,6 @@ public class example {
         System.out.println("第3");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("push test");
     }
 }
