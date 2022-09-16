@@ -14,5 +14,6 @@ public class example {
         System.out.println("hot-fix");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("9999");
     }
 }
